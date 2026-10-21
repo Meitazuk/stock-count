@@ -1,7 +1,7 @@
 Notebook 118
 Pencil 450
 Stapler 14
-Tape 60
+Tape 58
 Labels 300
 Glue 25
 Envelopes 500
