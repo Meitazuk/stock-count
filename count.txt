@@ -4,3 +4,4 @@ Stapler 14
 Tape 60
 Labels 300
 Glue 25
+Envelopes 500
