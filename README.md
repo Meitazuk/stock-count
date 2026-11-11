@@ -3,7 +3,7 @@ The stock count of Selin's warehouse: every product, with its number.
 ## The count
 - The count lives in `count.txt`.
 - One product per line: a name, one space, a number.
-- New products go at the end of the file.
+- Products are in alphabetical order: a new product goes to its place, not to the end.
 ## How to change it
 1. Open an issue.
 2. Make a branch.
@@ -24,3 +24,4 @@ git blame count.txt
 ```
 ## Decisions
 - [0001 - The count is a plain text file](docs/adr/0001-plain-text-count.md)
+
